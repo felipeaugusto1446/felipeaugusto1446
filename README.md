@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Felipe Augusto
 
 💻 Sou estudante de **Sistemas de Informação** na Universidade Federal de Itajubá  
-🌱 Atualmente estudando **React, Next.js, TypeScript** e conceitos de **Clean Architecture + DDD**  
+🌱 Atualmente estudando **React, Next.js, TypeScript** e conceitos de **Clean Architecture**  
 🚀 Interesses: Desenvolvimento Web, Arquitetura de Software, Engenharia de Dados e Qualidade de Software  
 
 ---
