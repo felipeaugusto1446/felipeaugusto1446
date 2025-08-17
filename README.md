@@ -19,7 +19,7 @@
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/felipe-augusto-377831357)  
+- **LinkedIn:** https://www.linkedin.com/in/felipe-augusto-377831357  
 - **Email:** felipeaugusto.2439@gmail.com  
 
 ---
