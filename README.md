@@ -14,7 +14,8 @@
 ---
 
 ## 📌 Projetos em destaque
-- [📚 Bibliotech](https://github.com/felipeaugusto1446/Bibliotech) → Sistema de gerenciamento de biblioteca feito em Next.js  
+- [📚 Bibliotech](https://github.com/felipeaugusto1446/Bibliotech) → Sistema de gerenciamento de biblioteca feito em Next.js
+- [👤Portifólio](https://github.com/felipeaugusto1446/landing-page-2) → Portifólio desenvolvido em Tailwind CSS 
 
 ---
 
