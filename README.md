@@ -14,14 +14,14 @@
 ---
 
 ## 📌 Projetos em destaque
-- [📚 Bibliotech]: https://github.com/felipeaugusto1446/Bibliotech → Sistema de gerenciamento de biblioteca feito em Next.js
+- [📚 Bibliotech](https://github.com/felipeaugusto1446/Bibliotech) → Sistema de gerenciamento de biblioteca feito em Next.js  
 
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/felipe-augusto-377831357 
-- Email: felipeaugusto.2439@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/felipe-augusto-377831357)  
+- **Email:** felipeaugusto.2439@gmail.com  
 
 ---
 
-⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!  
+⭐ Se gostou dos meus projetos, não esqueça de deixar uma estrela!
